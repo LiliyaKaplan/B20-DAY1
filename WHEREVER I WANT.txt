@@ -3,3 +3,5 @@ WHEREVER I WANT
 We created a git repository on desktop called B@)_DAY1
 
 We added one file inside called something
+
+new line here
